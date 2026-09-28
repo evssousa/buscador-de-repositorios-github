@@ -1,0 +1,7 @@
+- Refatorar os documentos em /docs (exceto plan.md e temas.md) para que o projeto seja feito utilizando os conteúdos de temas.md.
+- A ideia é o dev criar um projeto sem vibe-code utilizando o básico dos conhecimentos em temas.md, mas com a mesma ideia de projeto dos documentos encontrados na pasta /docs.
+- Crie um arquivo chamado projeto.md que será o documento que o dev deve seguir para desenvolver o projeto.
+- Na raiz, crie a pasta /test onde ficarão os testes com jest que o usuário terá como base para desenvolver o projeto.
+- O projeto deve seguir os conceitos de Análise e Desenvolvimento de Sistemas, com requisitos funcionais e não-funcionais.
+- Deve ser adicionado também no projeto.md imagens ou escopos de baixa fidelidade e/ou alta fidelidade para que o dev tenha uma direção do que fazer.
+- Antes de iniciar o projeto.md, deve ser feito algumas perguntas de alinhamento.

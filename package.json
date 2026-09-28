@@ -1,0 +1,13 @@
+{
+  "name": "buscador-de-repositorios-github",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Buscador de repositorios do GitHub - projeto de estudo de fetch, async/await e timers.",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
